@@ -1,0 +1,9 @@
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.csprojResolveAssemblyReference.cache
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.Properties.Resources.resources
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.csproj.GenerateResource.cache
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.csproj.CoreCompileInputs.cache
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\bin\Debug\FibonacciGame.exe.config
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\bin\Debug\FibonacciGame.exe
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\bin\Debug\FibonacciGame.pdb
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.exe
+C:\Programming_repos\С-sharp_projects\FibonacciGame\FibonacciGame\FibonacciGame\obj\Debug\FibonacciGame.pdb
