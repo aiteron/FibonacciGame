@@ -1,5 +1,5 @@
 # FibonacciGame
-analog 2048 game
+аналог 2048
 
 Использован шаблон MVC.
 
